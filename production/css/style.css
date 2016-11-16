@@ -1,0 +1,21 @@
+.min_height_320 {
+    min-height: 320px;
+}
+
+
+.x_title {
+    padding: 5px;
+}
+.x_panel {
+    padding: 2px;
+}
+
+.x_content .panel-heading:hover {
+    cursor: pointer;
+}
+
+/* Border Color */
+.bk-color-danger {
+    border-width: 2px;
+    background-color: #f2dede;
+}
